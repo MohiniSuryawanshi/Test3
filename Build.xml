@@ -4,7 +4,7 @@
 <junit printsummary="on">
 <test name="com.test.Test"/>
 <classpath>
-<pathelement location="C:\JUNIT\junit-4.10.jar"/>
+<pathelement location="lib\junit-4.10.jar"/>
 <pathelement location="staging"/>
 </classpath>
 	
