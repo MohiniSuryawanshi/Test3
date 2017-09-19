@@ -7,7 +7,6 @@
 <pathelement location="lib\junit-4.10.jar"/>
 <pathelement location="staging"/>
 </classpath>
-	
 	<formatter type="xml"/>
 </junit>
 </target>
